@@ -1,0 +1,1 @@
+Hi, I'm Eddie. I'm a web developer from Split, Croatia. I have a background in graphic design, as well as a passion for learning, growth, creating, self-improvement and all things fun. Currently I work with front-end technologies such as HTML/CSS, Javascript and React. I'm always interested in learning as much as I can and to improve myself as a developer.
