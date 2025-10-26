@@ -1,1 +1,1 @@
-Hi, I'm Eddie. I'm a web developer from Split, Croatia. I have a burning passion for learning, growth, creating, self-improvement and all things fun. Currently I work with front-end technologies such as HTML/CSS, Javascript and React. I'm always interested in learning as much as I can and improving myself as a developer.
+Hi, I'm Eddie. I'm a software developer from Split, Croatia. I have a burning passion for learning, growth, creating, self-improvement and all things fun. Currently I work in RPA (automation) and chasing my CS degree.
