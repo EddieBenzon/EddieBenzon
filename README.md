@@ -1,1 +1,1 @@
-Hi, I'm Eddie. I'm a software developer from Split, Croatia. I have a burning passion for learning, growth, creating, self-improvement and all things fun. Currently I work in RPA (automation) and chasing my CS degree.
+Hi, I'm Eddie. I'm a software developer from Split, Croatia. I have a burning passion for learning, growth, creating, self-improvement and all things fun. I'm currently working in RPA (automation) and I'm chasing my CS degree.
